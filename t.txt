@@ -1,0 +1,5 @@
+brand, product, feature
+Brand, product, service
+customer orient brand valuation
+Financial modelling, revenue modelling
+nps score 
