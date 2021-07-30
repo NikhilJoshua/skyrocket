@@ -2,3 +2,4 @@
 
 - Python/Pip
 - Nltk-toolkit
+- Pandas
