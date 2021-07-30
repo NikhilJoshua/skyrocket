@@ -1,4 +1,6 @@
-# Extracting Market Success or Failure Rate of a Product or Brand and Its Factors Based on Review Data Using Interpretable Machine Learning Models/Techniques
+# Project Title
+
+## Extracting Market Success or Failure Rate of a Product or Brand and Its Factors Based on Review Data Using Interpretable Machine Learning Models/Techniques
 ## by Nikhil Joshua
 
 Keywords: `Machine Learning` `Data Science` `Sentiment Analysis` `Text Analytics`
