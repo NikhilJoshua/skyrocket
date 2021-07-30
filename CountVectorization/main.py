@@ -16,6 +16,9 @@ sia = SentimentIntensityAnalyzer()
 X = dv.fit_transform(df['product'].values.astype('U'))
 sv = dv.vocabulary_
 
-sv2 = dict(sorted(sv.items(), reverse=True))
+print(len(df['product']))
+
+#sv2 = dict(sorted(sv.items(), reverse=True))
 
 print(sv2)
+
