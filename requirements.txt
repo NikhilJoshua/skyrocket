@@ -1,0 +1,4 @@
+== REQUIREMENTS ==
+
+- Python/Pip
+- Nltk-toolkit
