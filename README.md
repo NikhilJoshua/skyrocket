@@ -13,7 +13,8 @@ We are trying to predict success/failure of a product using a review dataset. Wh
 - Python/Pip
 - NLTK Toolkit
 - Pandas
+- Jupyter Notebook
 
-### Techniques
-- Clustering Problem
+### Proposed Techniques
+- Clustering
 - Sentiment Analysis
