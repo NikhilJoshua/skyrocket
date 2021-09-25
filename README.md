@@ -1,4 +1,6 @@
-# Project Title
+# Project: Skyrocket
+
+## Brief
 
 ## Extracting Market Success or Failure Rate of a Product or Brand and Its Factors Based on Review Data Using Interpretable Machine Learning Models/Techniques
 ## by Nikhil Joshua
